@@ -1,5 +1,7 @@
-##Task_tracker
+## Task_tracker
+
 Practice project for learning Github project management
 
-##About
+## About
+
 A simple to-do list app we build while learning github project management
